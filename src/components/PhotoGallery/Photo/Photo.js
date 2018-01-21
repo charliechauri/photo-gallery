@@ -1,3 +1,13 @@
+/**
+ * @name Photo
+ * @description Photo thumbnail
+ * @param {number} id,
+ * @param {string} title,
+ * @param {string} thumbnailUrl
+ * @param {function} onClick Callback called when a photo is clicked
+ * @author Carlos Echauri
+ */
+
 import React from 'react';
 import PropTypes from 'prop-types';
 import './Photo.css';
