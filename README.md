@@ -1,6 +1,7 @@
 # Photo gallery
 
-## Description
+## Description
+
 The project is intended to retrieve images from the endpoint photos at [https://jsonplaceholder.typicode.com/](https://jsonplaceholder.typicode.com/)
 
 It uses react as frontend framework, bootstrap for UI and axios to make http requests.
