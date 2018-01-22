@@ -3,6 +3,7 @@
     "rules": {
         "max-len": "off",
         "react/prefer-stateless-function": "none",
-        "react/jsx-filename-extension": "none"
+        "react/jsx-filename-extension": "none",
+        "react/jsx-no-bind": "none"
     }
 }
