@@ -5,6 +5,8 @@ The project is intended to retrieve images from the endpoint photos at [https://
 
 It uses react as frontend framework, bootstrap for UI and axios to make http requests.
 
+This project has been built with node v9.4.0, I recommend to use [nvm](https://github.com/creationix/nvm) for managing different node versions in MacOS and linux.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 ## Table of Contents
@@ -18,11 +20,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [Supported Browsers](#supported-browsers)
 
 ## Folder Structure
-
-After creation, your project should look like this:
-
 ```
-my-app/
+photo-gallery/
   README.md
   node_modules/
   package.json
@@ -30,6 +29,7 @@ my-app/
     index.html
     favicon.ico
   src/
+    /components/
     App.css
     App.js
     App.test.js
